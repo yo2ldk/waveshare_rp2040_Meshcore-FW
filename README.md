@@ -16,3 +16,6 @@ Built and tested by YO2LDK for the YO/YU  LoRa MeshCore network.
 
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/6a5ff117-a39b-4fc7-a35c-64be3797c1fe" />
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/26f5a8ca-56bd-4fe4-ae35-240b573fc724" />
+<img width="960" height="950" alt="image" src="https://github.com/user-attachments/assets/09f2d217-6e37-4ce8-a375-4d956bd06744" />
+<img width="960" height="1120" alt="image" src="https://github.com/user-attachments/assets/eb590f4c-a1ea-4715-8fd1-5e1475223f8e" />
+
